@@ -1,25 +1,25 @@
 {
   "files": {
     "main.css": "/casupo/static/css/main.435260fa.chunk.css",
-    "main.js": "/casupo/static/js/main.92ef43b8.chunk.js",
-    "main.js.map": "/casupo/static/js/main.92ef43b8.chunk.js.map",
+    "main.js": "/casupo/static/js/main.5382ee90.chunk.js",
+    "main.js.map": "/casupo/static/js/main.5382ee90.chunk.js.map",
     "runtime-main.js": "/casupo/static/js/runtime-main.168c75c6.js",
     "runtime-main.js.map": "/casupo/static/js/runtime-main.168c75c6.js.map",
-    "static/js/2.565e9a17.chunk.js": "/casupo/static/js/2.565e9a17.chunk.js",
-    "static/js/2.565e9a17.chunk.js.map": "/casupo/static/js/2.565e9a17.chunk.js.map",
+    "static/js/2.6ff43f5a.chunk.js": "/casupo/static/js/2.6ff43f5a.chunk.js",
+    "static/js/2.6ff43f5a.chunk.js.map": "/casupo/static/js/2.6ff43f5a.chunk.js.map",
     "static/js/3.53b891be.chunk.js": "/casupo/static/js/3.53b891be.chunk.js",
     "static/js/3.53b891be.chunk.js.map": "/casupo/static/js/3.53b891be.chunk.js.map",
     "index.html": "/casupo/index.html",
     "static/css/main.435260fa.chunk.css.map": "/casupo/static/css/main.435260fa.chunk.css.map",
-    "static/js/2.565e9a17.chunk.js.LICENSE.txt": "/casupo/static/js/2.565e9a17.chunk.js.LICENSE.txt",
+    "static/js/2.6ff43f5a.chunk.js.LICENSE.txt": "/casupo/static/js/2.6ff43f5a.chunk.js.LICENSE.txt",
     "static/media/alone.c67c078b.jpg": "/casupo/static/media/alone.c67c078b.jpg",
     "static/media/explore.7ddc8f72.jpg": "/casupo/static/media/explore.7ddc8f72.jpg",
     "static/media/travelpart.52b596b7.jpg": "/casupo/static/media/travelpart.52b596b7.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.168c75c6.js",
-    "static/js/2.565e9a17.chunk.js",
+    "static/js/2.6ff43f5a.chunk.js",
     "static/css/main.435260fa.chunk.css",
-    "static/js/main.92ef43b8.chunk.js"
+    "static/js/main.5382ee90.chunk.js"
   ]
 }
