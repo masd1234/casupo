@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/casupo/static/css/main.f07216e9.chunk.css",
+    "main.css": "/casupo/static/css/main.ef668641.chunk.css",
     "main.js": "/casupo/static/js/main.b229ac9d.chunk.js",
     "main.js.map": "/casupo/static/js/main.b229ac9d.chunk.js.map",
     "runtime-main.js": "/casupo/static/js/runtime-main.168c75c6.js",
@@ -10,7 +10,7 @@
     "static/js/3.53b891be.chunk.js": "/casupo/static/js/3.53b891be.chunk.js",
     "static/js/3.53b891be.chunk.js.map": "/casupo/static/js/3.53b891be.chunk.js.map",
     "index.html": "/casupo/index.html",
-    "static/css/main.f07216e9.chunk.css.map": "/casupo/static/css/main.f07216e9.chunk.css.map",
+    "static/css/main.ef668641.chunk.css.map": "/casupo/static/css/main.ef668641.chunk.css.map",
     "static/js/2.6ff43f5a.chunk.js.LICENSE.txt": "/casupo/static/js/2.6ff43f5a.chunk.js.LICENSE.txt",
     "static/media/alone.c67c078b.jpg": "/casupo/static/media/alone.c67c078b.jpg",
     "static/media/explore.7ddc8f72.jpg": "/casupo/static/media/explore.7ddc8f72.jpg",
@@ -19,7 +19,7 @@
   "entrypoints": [
     "static/js/runtime-main.168c75c6.js",
     "static/js/2.6ff43f5a.chunk.js",
-    "static/css/main.f07216e9.chunk.css",
+    "static/css/main.ef668641.chunk.css",
     "static/js/main.b229ac9d.chunk.js"
   ]
 }
