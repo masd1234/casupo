@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/casupo/static/css/main.ef668641.chunk.css",
-    "main.js": "/casupo/static/js/main.b229ac9d.chunk.js",
-    "main.js.map": "/casupo/static/js/main.b229ac9d.chunk.js.map",
-    "runtime-main.js": "/casupo/static/js/runtime-main.168c75c6.js",
-    "runtime-main.js.map": "/casupo/static/js/runtime-main.168c75c6.js.map",
-    "static/js/2.6ff43f5a.chunk.js": "/casupo/static/js/2.6ff43f5a.chunk.js",
-    "static/js/2.6ff43f5a.chunk.js.map": "/casupo/static/js/2.6ff43f5a.chunk.js.map",
-    "static/js/3.53b891be.chunk.js": "/casupo/static/js/3.53b891be.chunk.js",
-    "static/js/3.53b891be.chunk.js.map": "/casupo/static/js/3.53b891be.chunk.js.map",
+    "main.css": "/casupo/static/css/main.1521eb3b.chunk.css",
+    "main.js": "/casupo/static/js/main.493e6c4d.chunk.js",
+    "main.js.map": "/casupo/static/js/main.493e6c4d.chunk.js.map",
+    "runtime-main.js": "/casupo/static/js/runtime-main.bc4afc87.js",
+    "runtime-main.js.map": "/casupo/static/js/runtime-main.bc4afc87.js.map",
+    "static/js/2.5fe43425.chunk.js": "/casupo/static/js/2.5fe43425.chunk.js",
+    "static/js/2.5fe43425.chunk.js.map": "/casupo/static/js/2.5fe43425.chunk.js.map",
+    "static/js/3.024b5562.chunk.js": "/casupo/static/js/3.024b5562.chunk.js",
+    "static/js/3.024b5562.chunk.js.map": "/casupo/static/js/3.024b5562.chunk.js.map",
     "index.html": "/casupo/index.html",
-    "static/css/main.ef668641.chunk.css.map": "/casupo/static/css/main.ef668641.chunk.css.map",
-    "static/js/2.6ff43f5a.chunk.js.LICENSE.txt": "/casupo/static/js/2.6ff43f5a.chunk.js.LICENSE.txt",
+    "static/css/main.1521eb3b.chunk.css.map": "/casupo/static/css/main.1521eb3b.chunk.css.map",
+    "static/js/2.5fe43425.chunk.js.LICENSE.txt": "/casupo/static/js/2.5fe43425.chunk.js.LICENSE.txt",
     "static/media/alone.c67c078b.jpg": "/casupo/static/media/alone.c67c078b.jpg",
     "static/media/explore.7ddc8f72.jpg": "/casupo/static/media/explore.7ddc8f72.jpg",
     "static/media/travelpart.91773fb9.jpg": "/casupo/static/media/travelpart.91773fb9.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.168c75c6.js",
-    "static/js/2.6ff43f5a.chunk.js",
-    "static/css/main.ef668641.chunk.css",
-    "static/js/main.b229ac9d.chunk.js"
+    "static/js/runtime-main.bc4afc87.js",
+    "static/js/2.5fe43425.chunk.js",
+    "static/css/main.1521eb3b.chunk.css",
+    "static/js/main.493e6c4d.chunk.js"
   ]
 }
