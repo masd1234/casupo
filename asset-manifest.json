@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/casupo/static/css/main.32a09171.chunk.css",
-    "main.js": "/casupo/static/js/main.493e6c4d.chunk.js",
-    "main.js.map": "/casupo/static/js/main.493e6c4d.chunk.js.map",
+    "main.css": "/casupo/static/css/main.5723f577.chunk.css",
+    "main.js": "/casupo/static/js/main.1fb7d751.chunk.js",
+    "main.js.map": "/casupo/static/js/main.1fb7d751.chunk.js.map",
     "runtime-main.js": "/casupo/static/js/runtime-main.bc4afc87.js",
     "runtime-main.js.map": "/casupo/static/js/runtime-main.bc4afc87.js.map",
     "static/js/2.5fe43425.chunk.js": "/casupo/static/js/2.5fe43425.chunk.js",
@@ -10,7 +10,7 @@
     "static/js/3.024b5562.chunk.js": "/casupo/static/js/3.024b5562.chunk.js",
     "static/js/3.024b5562.chunk.js.map": "/casupo/static/js/3.024b5562.chunk.js.map",
     "index.html": "/casupo/index.html",
-    "static/css/main.32a09171.chunk.css.map": "/casupo/static/css/main.32a09171.chunk.css.map",
+    "static/css/main.5723f577.chunk.css.map": "/casupo/static/css/main.5723f577.chunk.css.map",
     "static/js/2.5fe43425.chunk.js.LICENSE.txt": "/casupo/static/js/2.5fe43425.chunk.js.LICENSE.txt",
     "static/media/alone.c67c078b.jpg": "/casupo/static/media/alone.c67c078b.jpg",
     "static/media/explore.7ddc8f72.jpg": "/casupo/static/media/explore.7ddc8f72.jpg",
@@ -19,7 +19,7 @@
   "entrypoints": [
     "static/js/runtime-main.bc4afc87.js",
     "static/js/2.5fe43425.chunk.js",
-    "static/css/main.32a09171.chunk.css",
-    "static/js/main.493e6c4d.chunk.js"
+    "static/css/main.5723f577.chunk.css",
+    "static/js/main.1fb7d751.chunk.js"
   ]
 }
